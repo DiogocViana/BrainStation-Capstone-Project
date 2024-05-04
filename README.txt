@@ -1,8 +1,8 @@
 Capstone Project
 Data Science Program
 TED Talk
-Author: John Card
-contact: card.john.jc@gmail.com
+Author: Diogo Viana
+contact: d.cviana@otutlook.com
 
 
 The principal objective of my project is to assist the TED talk speaker to achieve a high number of views based on the choice of the description
